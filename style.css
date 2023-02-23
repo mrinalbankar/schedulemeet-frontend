@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Quicksand', sans-serif;
+}
+
+/*-------------------------- schedules.html --------------------------*/
+.navbar {
+  background-color: white !important;
+}
+
+#nav-icons {
+  padding-right: 10px;
+}
+
+#table-box {
+  margin: 10px auto;
+  padding-bottom: 10px;
+  width: 95%;
+}
+
+/* .container {
+  padding: 2rem 0rem;
+}
+
+h4 {
+  margin: 2rem 0rem 1rem;
+}
+
+.table-image td {
+  vertical-align: middle;
+} */
+
+/* .table-head .table-cell {
+  border-right: none;
+}
+
+.table-cell {
+  display: table-cell;
+  width: 20%;
+  text-align: center;
+  padding: 4px 0;
+  border-right: 1px solid #d6d4d4;
+  vertical-align: middle;
+}
+
+.first-cell {
+  text-align: left;
+  padding-left: 10px;
+}
+
+.last-cell {
+  border-right: none;
+}
+
+a {
+  text-decoration: none;
+  color: #555;
+}
+
+@media only screen and (max-width: 600px) {
+  .table-row {
+    font-size: 11px;
+  }
+} */
+
+/*-------------------------- signup.html --------------------------*/
+.card {
+  border: none;
+  height: 320px
+}
+
+.forms-inputs {
+  position: relative
+}
+
+.forms-inputs span {
+  position: absolute;
+  top: -18px;
+  left: 10px;
+  background-color: #fff;
+  padding: 5px 10px;
+  /* font-size: 15px; */
+}
+
+.forms-inputs input {
+  height: 50px;
+  border: 2px solid #eee;
+  width: 100%;
+}
+
+.forms-inputs input:focus {
+  box-shadow: none;
+  outline: none;
+  border: 2px solid #000
+}
+
+.btn {
+  height: 50px;
+  font-size: 18px;
+}
+
+.success-data {
+  display: flex;
+  flex-direction: column
+}
+
+.bxs-badge-check {
+  font-size: 90px
+}
